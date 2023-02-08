@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ALX School is so cool!
+=======
+#!/bin/bash
+echo "ALX"
+>>>>>>> 4a02edb0d8f5e5be6f1da036f0435eb06111b065
